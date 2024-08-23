@@ -1,7 +1,7 @@
 {
-    "version": "0.0.1",
+    "version": "0.0.2",
     "download_urls": [
         "https://raw.githubusercontent.com/Redchees/PowerUpdates/main/releases/download/v0.0.1/PowerBash.zip"
     ],
-    "release_notes": "Initial release version 0.0.1. TO BE CONTINUED!"
+    "release_notes": "Recall Feature added! The Same As echo <input>"
 }
