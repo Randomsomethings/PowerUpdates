@@ -1,7 +1,7 @@
 {
-    "version": "0.0.2",
+    "version": "0.0.1",
     "download_urls": [
-        "https://github.com/Redchees/PowerUpdates/releases/download/v0.0.1/PowerBash.zip"
+        "https://raw.githubusercontent.com/Redchees/PowerUpdates/main/releases/download/v0.0.1/PowerBash.zip"
     ],
-    "release_notes": "Version 0.0.2 includes several bug fixes and performance improvements."
+    "release_notes": "PowerBash Version 0.0.1"
 }
