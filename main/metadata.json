@@ -1,11 +1,13 @@
 {
-    "version": "0.0.1",
+    "version": "0.0.2",
     "download_urls": [
       "https://github.com/Redchees/PowerUpdates/releases/download/v0.0.1/PowerBash.exe",
       "https://github.com/Redchees/PowerUpdates/releases/download/v0.0.1/PowerBash.pdb"
     ],
-    "release_notes": "Patch 0 provides basic input for PowerBash. If you are a developer, wait until Patch 2 (V2). You may need to have .NET Runtime 8.0!"
+    "release_notes": "Added in 2 easter eggs, one is hidden!"
 
 
   }
   
+
+
